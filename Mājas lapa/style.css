@@ -60,6 +60,19 @@ nav a:hover {
   object-fit: cover;
 }
 
+.logo img {
+
+  height: 40px;
+
+}
+
+
+
+
+
+
+
+
 .old {
   text-decoration: line-through;
   color: gray;
